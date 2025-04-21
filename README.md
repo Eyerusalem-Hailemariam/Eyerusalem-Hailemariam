@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Eyerusalem!
 
-🎓 5th-year Computer Science and Engineering student at **Adama Science and Technology University**. Passionate about **full-stack development**, **mobile apps**, and **problem-solving**.
+Passionate about **full-stack development**, **mobile apps**, and **problem-solving**.
 
 ---
 
@@ -9,7 +9,7 @@
 - **Backend**: Laravel, Node.js, Express.js, API Development  
 - **Databases**: MySQL, MongoDB  
 - **Languages**: JavaScript, Python, C  
-- **Tools**: WordPress, Firebase, Git
+- **Tools**: WordPress, Firebase
 
 ---
 
